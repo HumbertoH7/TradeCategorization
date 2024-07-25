@@ -1,0 +1,16 @@
+C:\Users\Humberto Filho\source\repos\TradeCategorization\bin\Debug\net5.0\TradeCategorization.exe
+C:\Users\Humberto Filho\source\repos\TradeCategorization\bin\Debug\net5.0\TradeCategorization.deps.json
+C:\Users\Humberto Filho\source\repos\TradeCategorization\bin\Debug\net5.0\TradeCategorization.runtimeconfig.json
+C:\Users\Humberto Filho\source\repos\TradeCategorization\bin\Debug\net5.0\TradeCategorization.runtimeconfig.dev.json
+C:\Users\Humberto Filho\source\repos\TradeCategorization\bin\Debug\net5.0\TradeCategorization.dll
+C:\Users\Humberto Filho\source\repos\TradeCategorization\bin\Debug\net5.0\ref\TradeCategorization.dll
+C:\Users\Humberto Filho\source\repos\TradeCategorization\bin\Debug\net5.0\TradeCategorization.pdb
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\TradeCategorization.csprojAssemblyReference.cache
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\TradeCategorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\TradeCategorization.AssemblyInfoInputs.cache
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\TradeCategorization.AssemblyInfo.cs
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\TradeCategorization.csproj.CoreCompileInputs.cache
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\TradeCategorization.dll
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\ref\TradeCategorization.dll
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\TradeCategorization.pdb
+C:\Users\Humberto Filho\source\repos\TradeCategorization\obj\Debug\net5.0\TradeCategorization.genruntimeconfig.cache
